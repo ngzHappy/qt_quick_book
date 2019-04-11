@@ -4,3 +4,6 @@
 [submodule "sstd_qt_qml_quick_library"]
 	path = sstd_qt_qml_quick_library
 	url = https://github.com/ngzHappy/sstd_qt_qml_quick_library
+[submodule "latex_book"]
+	path = latex_book
+	url = https://github.com/ngzHappy/latex_book
