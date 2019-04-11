@@ -1,0 +1,3 @@
+[submodule "sstd_library"]
+	path = sstd_library
+	url = https://github.com/nanguazhude/sstd_library
