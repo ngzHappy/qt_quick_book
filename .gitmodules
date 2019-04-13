@@ -7,3 +7,9 @@
 [submodule "latex_book"]
 	path = latex_book
 	url = https://github.com/ngzHappy/latex_book
+[submodule "chapter01"]
+	path = chapter01
+	url = https://github.com/ngzqqb/chapter01
+[submodule "chapter02"]
+	path = chapter02
+	url = https://github.com/ngzqqb/chapter02
