@@ -1,4 +1,6 @@
 ﻿
+git submodule foreach git pull
+
 #cplusplus 基础支持
 git submodule add https://github.com/nanguazhude/sstd_library
 
@@ -14,11 +16,9 @@ git submodule add https://github.com/ngzqqb/chapter01
 #第二章
 git submodule add https://github.com/ngzqqb/chapter02
 
-
-
 git submodule init
 git submodule update
-git submodule foreach git pull
+
 
 
 
