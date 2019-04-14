@@ -13,3 +13,6 @@
 [submodule "chapter02"]
 	path = chapter02
 	url = https://github.com/ngzqqb/chapter02
+[submodule "sstd_copy_qml"]
+	path = sstd_copy_qml
+	url = https://github.com/ngzqqb/sstd_copy_qml

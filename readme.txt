@@ -7,6 +7,9 @@ git submodule add https://github.com/nanguazhude/sstd_library
 #qt quick 基础支持
 git submodule add https://github.com/ngzHappy/sstd_qt_qml_quick_library
 
+#简单文件拷贝器
+git submodule add https://github.com/ngzqqb/sstd_copy_qml
+
 #latex 基础支持
 git submodule add https://github.com/ngzHappy/latex_book
 
