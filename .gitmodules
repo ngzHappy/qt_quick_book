@@ -16,3 +16,6 @@
 [submodule "sstd_copy_qml"]
 	path = sstd_copy_qml
 	url = https://github.com/ngzqqb/sstd_copy_qml
+[submodule "sstd_clean_code"]
+	path = sstd_clean_code
+	url = https://github.com/ngzqqb/sstd_clean_code
