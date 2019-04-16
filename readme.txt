@@ -16,6 +16,9 @@ git submodule add https://github.com/ngzqqb/sstd_clean_code
 #latex 基础支持
 git submodule add https://github.com/ngzHappy/latex_book
 
+#创建默认项目
+git submodule add https://github.com/ngzqqb/sstd_create_default_project
+
 #第一章
 git submodule add https://github.com/ngzqqb/chapter01
 
