@@ -26,7 +26,7 @@ git submodule add https://github.com/ngzqqb/chapter01
 git submodule add https://github.com/ngzqqb/chapter02
 
 #第三章
-git submodule add https://github.com/ngzqqb/chapter02
+git submodule add https://github.com/ngzqqb/chapter03
 
 git submodule init
 git submodule update
