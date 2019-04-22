@@ -22,3 +22,6 @@
 [submodule "sstd_create_default_project"]
 	path = sstd_create_default_project
 	url = https://github.com/ngzqqb/sstd_create_default_project
+[submodule "chapter03"]
+	path = chapter03
+	url = https://github.com/ngzqqb/chapter03
