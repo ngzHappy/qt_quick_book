@@ -25,3 +25,6 @@
 [submodule "chapter03"]
 	path = chapter03
 	url = https://github.com/ngzqqb/chapter03
+[submodule "sstd_create_windows_qt_dll_link"]
+	path = sstd_create_windows_qt_dll_link
+	url = https://github.com/ngzqqb/sstd_create_windows_qt_dll_link
