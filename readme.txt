@@ -21,6 +21,7 @@ git submodule add https://github.com/ngzqqb/sstd_create_default_project
 
 #第一章
 git submodule add https://github.com/ngzqqb/chapter01
+git submodule add https://github.com/nanguazhude/sstd_introduce_qmake
 
 #第二章
 git submodule add https://github.com/ngzqqb/chapter02

@@ -28,3 +28,6 @@
 [submodule "sstd_create_windows_qt_dll_link"]
 	path = sstd_create_windows_qt_dll_link
 	url = https://github.com/ngzqqb/sstd_create_windows_qt_dll_link
+[submodule "sstd_introduce_qmake"]
+	path = sstd_introduce_qmake
+	url = https://github.com/nanguazhude/sstd_introduce_qmake
