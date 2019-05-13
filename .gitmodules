@@ -31,3 +31,6 @@
 [submodule "sstd_introduce_qmake"]
 	path = sstd_introduce_qmake
 	url = https://github.com/nanguazhude/sstd_introduce_qmake
+[submodule "sstd_qml_moc"]
+	path = sstd_qml_moc
+	url = https://github.com/nanguazhude/sstd_qml_moc
