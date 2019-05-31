@@ -34,3 +34,24 @@
 [submodule "sstd_qml_moc"]
 	path = sstd_qml_moc
 	url = https://github.com/nanguazhude/sstd_qml_moc
+[submodule "chapter10"]
+	path = chapter10
+	url = https://github.com/ngzqqb/chapter10
+[submodule "chapter09"]
+	path = chapter09
+	url = https://github.com/ngzqqb/chapter09
+[submodule "chapter08"]
+	path = chapter08
+	url = https://github.com/ngzqqb/chapter08
+[submodule "chapter07"]
+	path = chapter07
+	url = https://github.com/ngzqqb/chapter07
+[submodule "chapter06"]
+	path = chapter06
+	url = https://github.com/ngzqqb/chapter06
+[submodule "chapter05"]
+	path = chapter05
+	url = https://github.com/ngzqqb/chapter05
+[submodule "chapter04"]
+	path = chapter04
+	url = https://github.com/ngzqqb/chapter04
