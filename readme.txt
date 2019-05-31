@@ -32,6 +32,30 @@ git submodule add https://github.com/ngzqqb/chapter02
 #第三章
 git submodule add https://github.com/ngzqqb/chapter03
 
+#第三章
+git submodule add https://github.com/ngzqqb/chapter03
+
+#第四章
+git submodule add https://github.com/ngzqqb/chapter04
+
+#第五章
+git submodule add https://github.com/ngzqqb/chapter05
+
+#第六章
+git submodule add https://github.com/ngzqqb/chapter06
+
+#第七章
+git submodule add https://github.com/ngzqqb/chapter07
+
+#第八章
+git submodule add https://github.com/ngzqqb/chapter08
+
+#第九章
+git submodule add https://github.com/ngzqqb/chapter09
+
+#第十章
+git submodule add https://github.com/ngzqqb/chapter10
+
 #Windows平台下测试使用，创建Qt dll link到当前目录
 git submodule add https://github.com/ngzqqb/sstd_create_windows_qt_dll_link
 
