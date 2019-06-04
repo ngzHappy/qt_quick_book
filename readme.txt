@@ -1,4 +1,7 @@
 ﻿
+git clone https://github.com/ngzHappy/qt_quick_book.git
+git submodule init
+git submodule update
 git submodule foreach git pull
 
 #简单文件拷贝器
@@ -58,28 +61,3 @@ git submodule add https://github.com/ngzqqb/chapter10
 
 #Windows平台下测试使用，创建Qt dll link到当前目录
 git submodule add https://github.com/ngzqqb/sstd_create_windows_qt_dll_link
-
-git submodule init
-git submodule update
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
