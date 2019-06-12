@@ -58,3 +58,6 @@ git submodule add https://github.com/ngzqqb/chapter10
 
 #Windows平台下测试使用，创建Qt dll link到当前目录
 git submodule add https://github.com/ngzqqb/sstd_create_windows_qt_dll_link
+
+#Windows 平台下批量生成MSCV项目
+git submodule add https://github.com/nanguazhude/creak_the_book_msvc_build_bat

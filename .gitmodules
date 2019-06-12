@@ -55,3 +55,6 @@
 [submodule "chapter04"]
 	path = chapter04
 	url = https://github.com/ngzqqb/chapter04
+[submodule "creak_the_book_msvc_build_bat"]
+	path = creak_the_book_msvc_build_bat
+	url = https://github.com/nanguazhude/creak_the_book_msvc_build_bat
