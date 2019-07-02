@@ -13,6 +13,9 @@ git submodule add https://github.com/nanguazhude/sstd_qml_moc
 #cplusplus 基础支持
 git submodule add https://github.com/nanguazhude/sstd_library
 
+#cgal 基础支持
+git submodule add https://github.com/ngzqqb/sstd_cgal
+
 #qt quick 基础支持
 git submodule add https://github.com/ngzHappy/sstd_qt_qml_quick_library
 

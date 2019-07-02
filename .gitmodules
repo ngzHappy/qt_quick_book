@@ -58,3 +58,6 @@
 [submodule "creak_the_book_msvc_build_bat"]
 	path = creak_the_book_msvc_build_bat
 	url = https://github.com/nanguazhude/creak_the_book_msvc_build_bat
+[submodule "sstd_cgal"]
+	path = sstd_cgal
+	url = https://github.com/ngzqqb/sstd_cgal
